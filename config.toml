@@ -25,7 +25,7 @@ disqus = "joway"
 extraHead = ""
 mainSections = [ "posts" ]
 
-  [[params.socials]]
+[[params.socials]]
   name = "RSS"
   link = "/index.xml"
 
