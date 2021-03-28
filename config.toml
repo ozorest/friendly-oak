@@ -27,7 +27,7 @@ mainSections = [ "posts" ]
 
 [[params.socials]]
 name = "Github"
-link = "/index.xml"
+link = "https://g"
 
 [[params.socials]]
 name = "RSS"
