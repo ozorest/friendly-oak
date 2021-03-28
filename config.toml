@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Example YinYong Blog"
+title = "@ozorest"
 theme = "yinyang"
 DefaultContentLanguage = "en"
 themesDir = "themes"
