@@ -26,9 +26,9 @@ extraHead = ""
 mainSections = [ "posts" ]
 
 [[params.socials]]
-  name = "RSS"
-  link = "/index.xml"
+name = "RSS"
+link = "/index.xml"
 
-  [[params.socials]]
-  name = "About"
-  link = "https://joway.io"
+[[params.socials]]
+name = "About"
+link = "https://joway.io"
