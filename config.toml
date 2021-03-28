@@ -15,7 +15,7 @@ contentDir = "content/en"
 languageName = "English"
 weight = 1
 
-[languages.cn]
+[languages.pt]
 contentDir = "content/cn"
 languageName = "Chinese"
 weight = 1
