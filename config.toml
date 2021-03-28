@@ -5,6 +5,7 @@ theme = "yinyang"
 DefaultContentLanguage = "en"
 themesDir = "themes"
 publishDir = "public"
+description = "Knowledge not shared is knowledge wasted"
 
 [author]
 name = "Thiago Ozores"
@@ -27,7 +28,11 @@ mainSections = [ "posts" ]
 
 [[params.socials]]
 name = "Github"
-link = "https://g"
+link = "https://github.com/ozorest"
+
+[[params.socials]]
+name = "Twitter"
+link = "https://github.com/ozorest"
 
 [[params.socials]]
 name = "RSS"
