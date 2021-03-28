@@ -16,7 +16,7 @@ languageName = "English"
 weight = 1
 
 [languages.pt]
-contentDir = "content/cn"
+contentDir = "content/pt"
 languageName = "Portuguese"
 weight = 1
 
