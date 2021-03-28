@@ -7,7 +7,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [author]
-name = "Joway Wang"
+name = "@ozorest"
 homepage = "https://joway.io/"
 
 [languages.en]
