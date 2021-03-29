@@ -35,9 +35,9 @@ name = "Twitter"
 link = "https://github.com/ozorest"
 
 [[params.socials]]
-name = "RSS"
-link = "/index.xml"
+name = "Linkedin"
+link = "https://www.linkedin.com/in/tozores"
 
 [[params.socials]]
-name = "About"
-link = "https://joway.io"
+name = "RSS"
+link = "/index.xml"
