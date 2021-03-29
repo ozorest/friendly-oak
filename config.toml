@@ -24,7 +24,8 @@ weight = 1
 disqus = "ozorest"
 extraHead = ""
 mainSections = [ "posts" ]
-description = "Knowledge not shared is knowledge wasted"
+description = "Father of Luana / DevOps Consultant / Python Developer (in my spare time) / Brazilian"
+tagline = "Knowledge not shared is knowledge wasted"
 
 [[params.socials]]
 name = "Github"
