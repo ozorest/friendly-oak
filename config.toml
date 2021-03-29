@@ -24,7 +24,7 @@ weight = 1
 disqus = "ozorest"
 extraHead = ""
 mainSections = [ "posts" ]
-description = "Father of Luana / DevOps Consultant / Python Developer (in my spare time) / Brazilian"
+description = "Father of Luana | DevOps Consultant | Python Developer (in my spare time) | Brazilian"
 tagline = "Knowledge not shared is knowledge wasted"
 
 [[params.socials]]
