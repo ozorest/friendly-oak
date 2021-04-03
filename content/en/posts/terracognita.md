@@ -22,7 +22,7 @@ But are there a lot of resources to code?
 
 So, maybe Terracognita is exactly what you are looking for.
 
-[Terracognita](https://github.com/cycloidio/terracognita) imports your current cloud infrastructure to a HCL Terraform code or to Terraform state, making it manageable by Terraform.
+[Terracognita](https://github.com/cycloidio/terracognita) imports your current cloud infrastructure to a HCL Terraform code or to Terraform state, making it manageable by Terraform, in other words, it makes a reverse engineering from what you have in your cloud infra and transform in the code.
 
 For now, the tool supports only AWS, Azure and GCP.
 

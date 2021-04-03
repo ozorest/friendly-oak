@@ -22,7 +22,7 @@ Mas tem muitos recursos para codificar?
 
 Então talvez o Terracognita seja exatamente o que você está procurando.
 
-[Terracognita](https://github.com/cycloidio/terracognita) importa sua infraestrutura atual na nuvem para um código HCL do Terraform ou para um arquivo de state do Terraform, fazendo possível sua infra ser gerenciada pelo Terraform.
+[Terracognita](https://github.com/cycloidio/terracognita) importa sua infraestrutura atual na nuvem para um código HCL do Terraform ou para um arquivo de state do Terraform, fazendo possível sua infra ser gerenciada pelo Terraform, ou seja, ela faz uma engenharia reversa do que você tem na sua nuvem e transforma no código para você.
 
 Atualmente, a ferramenta só suporta AWS, Azure e GCP.
 
